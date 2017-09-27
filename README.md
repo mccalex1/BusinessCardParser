@@ -9,8 +9,10 @@
 Anything like the examples should work 
 
 ### businessCard.txt
-~~~~ ASYMMETRIK LTD
+~~~~ 
+ASYMMETRIK LTD
 Mike Smith
 Senior Software Engineer
 (410)555-1234
-msmith@asymmetrik.com ~~~~
+msmith@asymmetrik.com
+~~~~
