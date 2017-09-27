@@ -1,11 +1,16 @@
-To run
- - python BusinessCardParser.py businessCard.txt
+#To run#
+ - python BusinessCardParser.py **businessCard.txt**
+ - python BusinessCardParser.py **businessCard2.txt**
+ - python BusinessCardParser.py **businessCard3.txt**
 
 
-businessCard.txt should look something along the lines of the example files just line followed by line of information
+#File format#
 
-ASYMMETRIK LTD
-Mike Smith
-Senior Software Engineer
-(410)555-1234
-msmith@asymmetrik.com
+Anything like the examples should work 
+
+###businessCard.txt""
+<addr>ASYMMETRIK LTD
+  Mike Smith
+  Senior Software Engineer
+  (410)555-1234
+  msmith@asymmetrik.com
