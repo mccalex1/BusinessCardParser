@@ -1,11 +1,11 @@
 # To run
 
-using python 3
-
+Using python 3
+ - You can create new files and run with whatever inputs
 ~~~~
-python3 BusinessCardParser.py **businessCard.txt**
-python3 BusinessCardParser.py **businessCard2.txt**
-python3 BusinessCardParser.py **businessCard3.txt**
+python3 BusinessCardParser.py businessCard.txt
+python3 BusinessCardParser.py businessCard2.txt
+python3 BusinessCardParser.py businessCard3.txt
 ~~~~
 
 
