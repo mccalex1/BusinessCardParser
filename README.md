@@ -1,7 +1,13 @@
 # To run
- - python BusinessCardParser.py **businessCard.txt**
- - python BusinessCardParser.py **businessCard2.txt**
- - python BusinessCardParser.py **businessCard3.txt**
+
+using python 3
+
+~~~~
+python3 BusinessCardParser.py **businessCard.txt**
+python3 BusinessCardParser.py **businessCard2.txt**
+python3 BusinessCardParser.py **businessCard3.txt**
+~~~~
+
 
 
 # File format
