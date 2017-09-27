@@ -9,8 +9,8 @@
 Anything like the examples should work 
 
 ### businessCard.txt
-<addr> ASYMMETRIK LTD
-<addr> Mike Smith
-<addr> Senior Software Engineer
-<addr> (410)555-1234
-<addr> msmith@asymmetrik.com
+~~~~ ASYMMETRIK LTD
+Mike Smith
+Senior Software Engineer
+(410)555-1234
+msmith@asymmetrik.com ~~~~
